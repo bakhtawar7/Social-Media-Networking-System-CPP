@@ -1,0 +1,10 @@
+101 Ali Computer_Student ali@example.com 20 M online 3 2 3 102 103 104
+102 Sara UI_Designer sara@example.com 22 F offline 2 3 2 101 105
+103 Ahmed Backend_Dev ahmed@example.com 23 M online 2 1 1 101
+104 Fatima Graphic_Designer fatima@example.com 21 F offline 1 1 1 101
+105 Bilal Data_Analyst bilal@example.com 24 M online 1 1 1 102
+106 Hina Frontend_Dev hina@example.com 22 F online 0 0 0
+107 Omar ML_Engineer omar@example.com 25 M offline 0 0 0
+108 Sana Cybersecurity sana@example.com 23 F online 0 0 0
+109 Zain Product_Manager zain@example.com 26 M offline 0 0 0
+110 Ayesha UX_Research ayesha@example.com 21 F online 0 0 0
